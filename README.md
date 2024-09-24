@@ -2,7 +2,7 @@
 by [Bang An*](https://bangann.github.io/), [Sicheng Zhu*](https://schzhu.github.io/)
 , [Ruiyi Zhang](https://zhangry868.github.io/)
 , [Michael-Andrei Panaitescu-Liess](https://scholar.google.se/citations?user=MOP6lhkAAAAJ&hl=lv)
-, [Yuancheng Xu] (https://yuancheng-xu.github.io/)
+, [Yuancheng Xu](https://yuancheng-xu.github.io/)
 , [Furong Huang](http://furong-huang.com/)
 
 [[Project Page](https://phtest-frf.github.io/)]  [[Paper](https://arxiv.org/abs/2409.00598)]  [[Dataset](https://huggingface.co/datasets/furonghuang-lab/PHTest)]
