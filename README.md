@@ -17,7 +17,7 @@ Safety-aligned large language models (LLMs) sometimes falsely refuse pseudo-harm
 Please find the PHTest dataset on [Hugging Face](https://huggingface.co/datasets/furonghuang-lab/PHTest)
 
 ## Code
-All prompts are generated automatically based on a controllable text-generation technique called [AutoDAN](https://arxiv.org/abs/2310.15140). 
+PHTest is generated based on a controllable text-generation technique called [AutoDAN](https://arxiv.org/abs/2310.15140). Our method offers a tool for automatic model-targeted false refusal red-teaming.
 
 Code is coming soon!
 
